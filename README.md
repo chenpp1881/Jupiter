@@ -6,7 +6,7 @@ This repo is a paper of python implementation : A Corelation-Driven Label Propag
 
 ![The overview of GPANet](fig/model.drawio.png)
 
-The overview of our proposed method Jupiter is illustrated in the Figure, which consists of three steps: 1) Data Sampling, 2) Contrastive Learning, 3) Label propagation, and 4) Vulnerability Detection.
+The overview of our proposed method Jupiter is illustrated in the Figure, which consists of four steps: 1) Data Sampling, 2) Contrastive Learning, 3) Label propagation, and 4) Vulnerability Detection.
 
 # Required Packages
 - python 3+
